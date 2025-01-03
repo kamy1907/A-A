@@ -9,7 +9,7 @@ const Build = () => {
   return (
     <div className=" background px-6 py-10 max-w-screen-xxl pt-40 mx-auto ">
         <h1 className="text-4xl font-bold text-center mb-4 text-blue-900 "style={{ textShadow: '0px 0px 8px rgba(255, 255, 255, 1), 0px 0px 15px rgba(255, 255, 255, 1)'}}>Welcome to {FirmName}</h1>
-        <p className="text-xl text-center mb-6 text-blue-800">Your Trusted Partner for Financial Success</p>
+        <p className="text-xl text-center mb-6 text-blue-800" style={{ textShadow: '0px 0px 8px rgba(255, 255, 255, 1), 0px 0px 15px rgba(255, 255, 255, 1)'}}>Your Trusted Partner for Financial Success</p>
         <article className="mb-8 text-gray-700">
             At {FirmName}, we provide professional accounting services that help businesses and individuals navigate complex financial landscapes. Our expert team is committed to delivering accurate, timely, and tailored solutions to ensure your financial success. Whether you're a small business owner or an individual managing your personal finances, we’re here to help.
         </article>
