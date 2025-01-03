@@ -1,0 +1,10 @@
+/* styles.css */
+.background {
+    position: absolute;
+    background-image: url('./resources/offshore-accounting-services-768x432.jpg\ \(1\).webp');
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    height: 100vh; /* Ensures the background covers the full screen */
+  }
+  
