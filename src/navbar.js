@@ -65,7 +65,7 @@ const Navbar = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <button className="relative rounded hover:shadow-xl overflow-hidden">
+            <button className="relative rounded overflow-hidden">
               Pricing & Approach
             </button>
           </a>
@@ -74,7 +74,7 @@ const Navbar = () => {
         <li className="relative">
           <button
             onClick={toggleDropdown}
-            className="text-blue-900 rounded hover:shadow-xl transition duration-200 cursor-pointer relative overflow-hidden"
+            className="text-blue-900 rounded transition duration-200 cursor-pointer relative overflow-hidden"
           >
             Services
           </button>
@@ -126,7 +126,7 @@ const Navbar = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <button className="relative rounded hover:shadow-xl overflow-hidden">
+            <button className="relative rounded overflow-hidden">
               About
             </button>
           </a>
